@@ -1,4 +1,2 @@
 # restaurant_web_sever
-A simple crud web server for restaurant
-a ready use crud web server implemented in python which allow user to add,modify or delete resto name
-i would be adding same functionalities for menu items further
+A simple crud web server for restaurant which allow user to add,modify or delete restaurant name. Will add same functionalities for menu items further.
